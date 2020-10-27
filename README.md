@@ -26,7 +26,7 @@
   
 [<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="450" style="float: left ; margin-right:10px ;" />](https://open.spotify.com/user/12152190147)
 
-## Connect with me
+## Connect with me 🤝🏾
 
 <p align="center">
   <img src="https://media.giphy.com/media/xWcTtMwGlD8Bi/giphy.gif" width="30%"> 
