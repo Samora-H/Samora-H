@@ -4,7 +4,7 @@
   <samp>
     I'm Samora Zambi ✊🏿
     <br><br>
-    I am a 1st year graduate of the Veiga de Almeida University, Rio de Janeiro.:brazil:
+    I am a 2st year graduate of the Veiga de Almeida University, Rio de Janeiro.:brazil:
     <br><br>
     Studying HTML, CSS, Javascript for 3 month .🖥️
     <br><br>
