@@ -6,7 +6,7 @@
     <br><br>
     I am a 2st year graduate of the Veiga de Almeida University, Rio de Janeiro.:brazil:
     <br><br>
-    Studying HTML, CSS, Javascript for 3 month .🖥️
+    Studying HTML, CSS, Javascript for 6 month .🖥️
     <br><br>
     29 years living eating chocolate chip cookies.🍪
     <br><br>
