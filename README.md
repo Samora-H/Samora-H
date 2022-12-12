@@ -32,8 +32,8 @@
   <img src="https://media.giphy.com/media/xWcTtMwGlD8Bi/giphy.gif" width="30%"> 
 <br>
 
-<img src="https://img.shields.io/badge/vulcaum2@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="vulcaum2@gmail.com">   
-<a  href="https://www.instagram.com/samora_zueira/"><img src="https://img.shields.io/badge/@samora_zueira-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<img src="https://img.shields.io/badge/vulcaum2@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="samoradev@gmail.com">   
+<a  href="https://www.instagram.com/samora_dev/"><img src="https://img.shields.io/badge/@samora_zueira-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/Samora Zambi-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 <a href="https://twitter.com/Samorinh_A"><img src="https://img.shields.io/badge/Samorinh.A-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://steamcommunity.com/profiles/76561198083767478"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>
