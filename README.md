@@ -8,7 +8,7 @@
     <br><br>
     Studying HTML, CSS, Javascript for 6 month .🖥️
     <br><br>
-    29 years living eating chocolate chip cookies.🍪
+    30 years living eating chocolate chip cookies.🍪
     <br><br>
     Developing and getting more and more passionate about technology.💜
   </samp>
